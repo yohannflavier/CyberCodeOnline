@@ -2682,7 +2682,7 @@
  	 	 	},
  	 	 	"hasRefererCheckbox": {
  	 	 	 	"description": {
- 	 	 	 	 	"trans": "Vérifiez seulement si vous avez un référateur (facultatif)",
+ 	 	 	 	 	"trans": "Cochez seulement si vous avez été parrainé (facultatif)",
  	 	 	 	 	"eng": "Only check if you have a referer (Optional)"
  	 	 	 	},
  	 	 	 	"title": {
